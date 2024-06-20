@@ -6,22 +6,16 @@
   margin-top: 2vh;
   width: 254px;
   height: 70px;
-  top: 34px;
-  left: 513px;
 }
 @media screen and (max-width: 1024px) {
   .header__logo {
     width: 254px;
     height: 66px;
-    top: 30px;
-    left: 257px;
   }
 }
 @media screen and (max-width: 544px) {
   .header__logo {
     width: 188px;
     height: 52px;
-    top: 20px;
-    left: 66px;
   }
 }
