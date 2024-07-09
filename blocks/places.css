@@ -98,10 +98,6 @@
     rgba(0, 58, 123, 0.25) 99.98%
   );
 }
-.place__link {
-  text-decoration: none;
-  color: #ffffff;
-}
 @media screen and (max-width: 1024px) {
   .places {
     max-width: 720px;
