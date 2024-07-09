@@ -22,7 +22,7 @@
   align-self: flex-end;
   grid-area: artists;
 }
-.place__artists__heading {
+.place__artists-heading {
   font-family: Inter;
   font-size: 12px;
   font-weight: 400;
@@ -31,7 +31,7 @@
   text-align: left;
   color: #aaa;
 }
-.place__artists__names {
+.place__artists-names {
   font-family: Inter;
   font-size: 18px;
   font-weight: 400;
@@ -108,13 +108,13 @@
   .place__artists {
     max-width: 352px;
   }
-  .place__artists__heading {
+  .place__artists-heading {
     font-size: 12px;
     line-height: 14.52px;
     letter-spacing: 0.12em;
     margin: 24px 0 0 0;
   }
-  .place__artists__names {
+  .place__artists-names {
     font-size: 18px;
 
     line-height: 22px;
@@ -155,7 +155,7 @@
     grid-column: 1;
     padding-left: 16px;
   }
-  .place__artists__names {
+  .place__artists-names {
     font-size: 18px;
     line-height: 22px;
   }
