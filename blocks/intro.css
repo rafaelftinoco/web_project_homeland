@@ -52,32 +52,28 @@
   margin: 0;
 }
 @media screen and (max-width: 1024px) {
+  .intro {
+    max-width: 720px;
+  }
   .intro__title {
     font-size: 45px;
     line-height: 49px;
-    width: 707px;
-    height: 98px;
+    max-width: 707px;
   }
   .intro__quote {
-    width: 720px;
-    height: 102px;
-    top: 1189px;
-    left: 24px;
+    max-width: 720px;
   }
   .intro__name {
     position: static;
-    width: 720px;
-    height: 34px;
+    max-width: 720px;
   }
   .intro__paragraph {
-    width: 720px;
-    height: 182px;
-    top: 1349px;
-    left: 24px;
+    max-width: 720px;
+
     font-size: 16px;
   }
 }
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 768px) {
   .intro {
     padding: 0 16px;
   }

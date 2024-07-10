@@ -36,7 +36,7 @@
     line-height: 79px;
   }
 }
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 768px) {
   .lead__title {
     width: 228px;
     height: 88px;
