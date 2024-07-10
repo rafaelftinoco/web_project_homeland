@@ -91,7 +91,7 @@
     rgba(0, 58, 123, 0.25) 99.98%
   );
 }
-@media screen and (max-width: 1184px) {
+@media screen and (max-width: 1024px) {
   .places {
     max-width: 720px;
   }
