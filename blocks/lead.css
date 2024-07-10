@@ -28,7 +28,7 @@
   max-width: 954px;
   box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1184px) {
   .lead__title {
     width: 530px;
     height: 158px;
